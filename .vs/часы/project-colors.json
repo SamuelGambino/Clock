@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5cdef92-bd2b-4eda-b067-e478fae14993": {
+      "ProjectGuid": "d5cdef92-bd2b-4eda-b067-e478fae14993",
+      "DisplayName": "часы",
+      "ColorIndex": 0
+    },
+    "2010d9e2-faff-46ca-b2f1-083b9314a98d": {
+      "ProjectGuid": "2010d9e2-faff-46ca-b2f1-083b9314a98d",
+      "DisplayName": "часы",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

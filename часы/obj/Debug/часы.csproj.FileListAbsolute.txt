@@ -1,0 +1,81 @@
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\bin\Debug\часы.exe.config
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\bin\Debug\часы.exe
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\bin\Debug\часы.pdb
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы.csproj.AssemblyReference.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы.csproj.SuggestedBindingRedirects.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\MainWindow.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\App.g.cs
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы_MarkupCompile.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы_MarkupCompile.lref
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\MainWindow.baml
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы.g.resources
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы.Properties.Resources.resources
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы.csproj.GenerateResource.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы.csproj.CoreCompileInputs.cache
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы.exe
+C:\Users\imnv9\OneDrive\Рабочий стол\часы\часы\obj\Debug\часы.pdb
+C:\Users\Comp0722\Desktop\часы\часы\bin\Debug\часы.exe.config
+C:\Users\Comp0722\Desktop\часы\часы\bin\Debug\часы.exe
+C:\Users\Comp0722\Desktop\часы\часы\bin\Debug\часы.pdb
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы.csproj.AssemblyReference.cache
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\MainWindow.g.cs
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\App.g.cs
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы_MarkupCompile.cache
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы_MarkupCompile.lref
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\MainWindow.baml
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы.g.resources
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы.Properties.Resources.resources
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы.csproj.GenerateResource.cache
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы.csproj.CoreCompileInputs.cache
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы.exe
+C:\Users\Comp0722\Desktop\часы\часы\obj\Debug\часы.pdb
+C:\Users\Comp0706\Desktop\часы\часы\bin\Debug\часы.exe.config
+C:\Users\Comp0706\Desktop\часы\часы\bin\Debug\часы.exe
+C:\Users\Comp0706\Desktop\часы\часы\bin\Debug\часы.pdb
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы.csprojAssemblyReference.cache
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\MainWindow.g.cs
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\App.g.cs
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы_Content.g.cs
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы_MarkupCompile.cache
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы_MarkupCompile.lref
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\MainWindow.baml
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы.g.resources
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы.Properties.Resources.resources
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы.csproj.GenerateResource.cache
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы.csproj.CoreCompileInputs.cache
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы.exe
+C:\Users\Comp0706\Desktop\часы\часы\obj\Debug\часы.pdb
+C:\Users\comp0715\Desktop\часы\часы\bin\Debug\часы.exe.config
+C:\Users\comp0715\Desktop\часы\часы\bin\Debug\часы.exe
+C:\Users\comp0715\Desktop\часы\часы\bin\Debug\часы.pdb
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы.csproj.AssemblyReference.cache
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы.csproj.SuggestedBindingRedirects.cache
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\MainWindow.g.cs
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\App.g.cs
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы_Content.g.cs
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы_MarkupCompile.cache
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы_MarkupCompile.lref
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\MainWindow.baml
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы.g.resources
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы.Properties.Resources.resources
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы.csproj.GenerateResource.cache
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы.csproj.CoreCompileInputs.cache
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы.exe
+C:\Users\comp0715\Desktop\часы\часы\obj\Debug\часы.pdb
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы.csproj.AssemblyReference.cache
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы.csproj.SuggestedBindingRedirects.cache
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\MainWindow.g.cs
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\App.g.cs
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы_Content.g.cs
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы_MarkupCompile.cache
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы_MarkupCompile.lref
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы.exe
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы.pdb
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\bin\Debug\часы.exe.config
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\bin\Debug\часы.exe
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\bin\Debug\часы.pdb
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\MainWindow.baml
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы.g.resources
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы.Properties.Resources.resources
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы.csproj.GenerateResource.cache
+C:\Users\danja\OneDrive\Рабочий стол\WpfClock\часы\часы\obj\Debug\часы.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\comp0715\Desktop\часы\bin\Debug\часы.exe.config
+C:\Users\comp0715\Desktop\часы\bin\Debug\часы.exe
+C:\Users\comp0715\Desktop\часы\bin\Debug\часы.pdb
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы.csproj.AssemblyReference.cache
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы.csproj.SuggestedBindingRedirects.cache
+C:\Users\comp0715\Desktop\часы\obj\Debug\MainWindow.g.cs
+C:\Users\comp0715\Desktop\часы\obj\Debug\App.g.cs
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы_MarkupCompile.cache
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы_MarkupCompile.lref
+C:\Users\comp0715\Desktop\часы\obj\Debug\MainWindow.baml
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы.g.resources
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы.Properties.Resources.resources
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы.csproj.GenerateResource.cache
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы.csproj.CoreCompileInputs.cache
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы.exe
+C:\Users\comp0715\Desktop\часы\obj\Debug\часы.pdb
